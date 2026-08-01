@@ -20,8 +20,7 @@
 
 I'm a **Cybersecurity & Digital Forensics** student at VIT Bhopal (CGPA: 8.48) with a passion for building innovative security solutions using Artificial Intelligence and Machine Learning.
 
-### 🎯 What I'm Currently Working On
-- 🔭 Building a **Local AI-Powered IDS** with DeepSeek LLM integration
+### 🎯 What I'm Currently Working On:
 - 🌱 Exploring **Adversarial Machine Learning** and **AI Security**
 - 🎯 Preparing for **OSCP** certification
 
@@ -73,7 +72,6 @@ I'm a **Cybersecurity & Digital Forensics** student at VIT Bhopal (CGPA: 8.48) w
 
 **Tech Stack:** Python, Streamlit, Ollama, DeepSeek, Scapy
 
-[![GitHub](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sidhigautam6/Local-IDS-Dashboard)
 
 ---
 
@@ -88,7 +86,7 @@ I'm a **Cybersecurity & Digital Forensics** student at VIT Bhopal (CGPA: 8.48) w
 
 **Tech Stack:** Python, BERT, Scikit-learn, Hugging Face
 
-[![GitHub](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sidhigautam6/Job-Scanner-Detector)
+
 
 ---
 
@@ -162,8 +160,6 @@ I'm a **Cybersecurity & Digital Forensics** student at VIT Bhopal (CGPA: 8.48) w
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
   
-  ### ⭐ If you find my work interesting, give a star to my repositories!
-  
-  *Built with ❤️ and ☕ by Sidhi Gautam*
+ 
   
 </div>
